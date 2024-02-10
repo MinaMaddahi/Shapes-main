@@ -1,12 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Collections;
-using System.Collections.Generic;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class ColorChange : MonoBehaviour
+public class DistanceColorChange : MonoBehaviour
 {
     public GameObject grabbableCube;
     public GameObject typicalCube;
@@ -54,4 +50,3 @@ public class ColorChange : MonoBehaviour
         }
     }
 }
-
